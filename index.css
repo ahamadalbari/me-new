@@ -11,3 +11,14 @@ body{
 .half-width img{
     width: 100%;
 }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, blue,green);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+}
+.heder{
+    background-image: url("images 2/header-bg.png");
+    background-position: no-repeat;
+}
