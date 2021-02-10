@@ -1,0 +1,13 @@
+body{
+    font-family: 'Jomhuria', cursive;
+}
+.half-width{
+    width: 40%;
+    float: left;
+}
+.pink-highlight{
+    color: pink;
+}
+.half-width img{
+    width: 100%;
+}
